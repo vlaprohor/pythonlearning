@@ -22,5 +22,5 @@ while True:
     except ValueError:
         print("Please enter a number")
 
-#save_user(name, age)
+save_user(name, age)
 load_user()
